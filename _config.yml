@@ -12,12 +12,12 @@ github_repo: "https://github.com/tylerzhang21/tylerzhang21.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "The Best Is the Enemy of the Better."
-sidebar-avatar: img/tylerzhang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_ty.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
-RSS: false
+RSS: true
 # weibo_username:     
 zhihu_username:     
 github_username:    
